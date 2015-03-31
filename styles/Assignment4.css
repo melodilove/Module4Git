@@ -1,0 +1,15 @@
+body {text-align: center;}
+
+#section1 {visibility: hidden; width:600px; text-align: center; font-weight: bold; margin: auto;}
+
+#illinois {background-color: #0000FF; color:#FFFFFF;}
+
+#section2 {visibility: hidden; width: 600px; text-align: center; font-weight: bold; margin: auto; position: absolute; top: 111px; left: 500px;}
+
+#virginia {background-color: #CC9999; color: #000000;}
+
+#image1, #image2, #image3, #image4, #image5, #image6 {width: 175px; display: inline; padding: 10px;}
+
+img {border: solid 1px #000000;}
+
+footer {width: 600px; background-color: #000000; color: #FFFFFF; font-weight: bold; text-transform: uppercase; text-align: center; padding: 10px 0; margin: 20px auto;}
